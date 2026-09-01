@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1B5E20&height=200&section=header&text=Everton%20Venancio&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Do%20campo%20para%20o%20c%C3%B3digo%20%F0%9F%9A%81%F0%9F%8C%B1&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2E7D32&center=true&vCenter=true&width=650&lines=%F0%9F%8C%BE+T%C3%A9cnico+Agr%C3%ADcola+%26+Gestor+em+Agroneg%C3%B3cios;%F0%9F%9A%81+Especialista+em+Drone+Agr%C3%ADcola+(DJI+Agriculture);%F0%9F%A4%96+Construindo+automa%C3%A7%C3%B5es+pro+meu+pr%C3%B3prio+trabalho;%F0%9F%92%BB+Python+%7C+TypeScript+%7C+N8n+%7C+IA;%F0%9F%9A%9C+Sem+forma%C3%A7%C3%A3o+em+dev%2C+mas+resolvendo+na+unha" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2E7D32&center=true&vCenter=true&width=650&lines=%F0%9F%8C%BE+T%C3%A9cnico+Agr%C3%ADcola+%26+Gestor+em+Agroneg%C3%B3cios;%F0%9F%9A%81+Especialista+em+Drone+Agr%C3%ADcola+DJI+Agriculture;%F0%9F%A4%96+Construindo+automa%C3%A7%C3%B5es+pro+meu+pr%C3%B3prio+trabalho;%F0%9F%92%BB+Python+%7C+TypeScript+%7C+N8n+%7C+IA;%F0%9F%9A%9C+Sem+forma%C3%A7%C3%A3o+em+dev%2C+mas+resolvendo+na+unha" alt="Typing SVG" />
 
 </div>
 
