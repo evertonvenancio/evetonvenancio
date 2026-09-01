@@ -19,8 +19,8 @@ Aprendendo na prática, testando, quebrando e consertando. Se o problema é meu,
 - **🌾 Software de Agricultura de Precisão** *(em desenvolvimento)* — interpretação de análise de solo e recomendação em taxa variada, entre outras funções.
 - **📸 Sistema Autônomo de Prospecção no Instagram com IA** *(finalizando)* — prospecção automatizada usando agentes de IA.
 - **🤝 DeskCommCRM + Agentes de IA** — uso (não é projeto próprio) agentes de IA autônomos para atendimento via WhatsApp.
-- **📱 Disparador WhatsApp com digitação humana** *(finalizando, me ajuda muito!)*— app com algoritmo de envio de mensagens que simula digitação humana, usado em campanhas frias.
-- **🎬 Editor de vídeo em massa** — corta no formato 9:16 *(Instagram, Reels)*, gera o canvas dentro do próprio app; você só entra com a logo, cta, etc. e ele monta e salva.
+- **📱 Disparador WhatsApp com digitação humana** *(finalizado, me ajuda muito!)*— app com algoritmo de envio de mensagens que simula digitação humana, usado em campanhas frias.
+- **🎬 Editor de vídeo em massa** — corta no formato 9:16 (Instagram, Reels), gera o canvas dentro do próprio app; você só entra com a logo, cta, etc. e ele monta e salva.
 
 ---
 
